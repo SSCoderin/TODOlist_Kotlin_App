@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647667319920",
+    "firebase_url": "https://newtodo-bcdfa-default-rtdb.firebaseio.com",
+    "project_id": "newtodo-bcdfa",
+    "storage_bucket": "newtodo-bcdfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647667319920:android:7b31ddf82c43ddd5c1e0b5",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647667319920-qpnf6fipua8f2ncini3finbbqnpv4fnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-FZgrwTZF4MILPj6ZxX4n78AJFxOQ30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647667319920-qpnf6fipua8f2ncini3finbbqnpv4fnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
